@@ -1,0 +1,4 @@
+<?php 
+ /*  generated: 1447689317 
+ */ 
+ ?><div class="portfolio_shortcode_container sortable_object position_relative" data-containerclass="portfolio_shortcode_container"><div class="element_linked_featured_image"><div class="ptel_content"><div class="post_entry_linked_featured_image"><?php sl_linked_featured_image(); ?></div></div></div><div class="lrs hover_cover trans05"><div class="element_linked_title"><div class="ptel_content"><?php sl_linked_title(); ?></div></div><div class="element_categories"><div class="ptel_content"><div class="post_entry_categories"><?php sl_category(); ?></div></div></div></div></div>

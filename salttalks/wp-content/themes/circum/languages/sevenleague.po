@@ -1,0 +1,125 @@
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: enzo/portfolio-list.php:16
+#: enzo/portfolio-masonry.php:29
+#: enzo/portfolio-sortable.php:26
+#: enzo/7league/posttype-portfolio.php:62
+#: enzo/7league/posttype-portfolio.php:1055
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: enzo/single-portfolio.php:22
+msgid "Client:"
+msgstr ""
+
+#. Text in echo
+#: enzo/comments.php:24
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: enzo/single-team.php:80
+msgid "Contacts"
+msgstr ""
+
+#. Text in echo
+#: enzo/single-portfolio.php:40
+msgid "Created:"
+msgstr ""
+
+#. Text in function
+#: enzo/single-team.php:98
+msgid "Dribbble"
+msgstr ""
+
+#. Text in echo
+#: enzo/page-contact.php:109
+msgid "Email:"
+msgstr ""
+
+#. Text in function
+#: enzo/single-team.php:98
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: enzo/single-team.php:98
+msgid "Flickr"
+msgstr ""
+
+#. Text in echo
+#: enzo/page-contact.php:116
+msgid "Message:"
+msgstr ""
+
+#. Text in echo
+#: enzo/page-contact.php:102
+msgid "Name:"
+msgstr ""
+
+#. Text in echo
+#: enzo/portfolio-list.php:78
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: enzo/7league/7league_functions.php:2301
+msgid "Related Works"
+msgstr ""
+
+#. Text in echo
+#: enzo/page-contact.php:124
+msgid "Send message"
+msgstr ""
+
+#. Text in echo
+#: enzo/page-contact.php:98
+msgid "Sorry, an error occured."
+msgstr ""
+
+#. Text in echo
+#: enzo/7league/script/custom.js.php:202
+#: enzo/7league/script/custom.js.php:217
+msgid "Sorry, an error occured. Please fill in all details corretly."
+msgstr ""
+
+#. Text in echo
+#: enzo/page-contact.php:87
+#: enzo/page-contact.php:95
+#: enzo/7league/script/custom.js.php:197
+#: enzo/7league/script/custom.js.php:212
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#. Text in echo
+#: enzo/comments.php:7
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: enzo/single-team.php:98
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: enzo/single-clients.php:21
+msgid "Visit"
+msgstr ""
+
+#. Text in echo
+#: enzo/single-portfolio.php:15
+msgid "Works:"
+msgstr ""
+
+#. Text in echo
+#: enzo/functions.php:280
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: enzo/single-team.php:98
+msgid "Youtube"
+msgstr ""

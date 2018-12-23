@@ -1,0 +1,107 @@
+/* DARK PRESETS */
+
+.clients_entry_img, .testimonial_entry_content, .servicebox, .sc_skill, .sidebar aside > div, .sidebar aside > div, .shadow_box > *, .widget_posts_left img, .category-item-img img, .googlemap > div, .quickgallery-item > div:first-child, #gallery-info .gallery_shadow_box, .portfolio-img, .team_entry_img, .testimonial_entry_p, .clients_entry_img, .comment-body, .room_slideshow_container > div, #content th
+{
+	background:#0e0e0e;
+}
+input, textarea, .comment-body, .single_team_contact_container::before, .single_team_contact_container::after, .hr_line, .team_p, .clients_entry_img, blockquote, .accordion h3, .toggle-trigger, .ui-tabs-nav li a, .ui-tabs > div, .ui-tabs ul.default .ui-state-active a, .pagination .current, .custom_header, .csl, .nocsl, #cycle_container, .map_container_outer
+{
+	background:#0e0e0e;
+}
+.sidebar ul > li, .toggle h3+ div, #head_line, textarea, .single_team .team_single_contacts, .single_team .contact_details, .single_team .team_position_container, .single_team .team_social_container, .single_team .team_single_contacts, .single_team .team_social_container a, input[type=text], input[type=password], input[type=email], select, input, textarea, .comment-body, .clients_entry_img, blockquote, .accordion h3, .toggle-trigger, .ui-tabs-nav li a, h3.toggle-trigger, h3.accordion-trigger, .accordion h3, .ui-tabs > div, .ui-tabs ul.default, .ui-tabs ul.default .ui-state-active a, .accordion-content
+{
+	border-color:#000;
+	color:inherit;
+}
+.pagination .current
+{
+	background:#0e0e0e !important;
+}
+
+textarea, input[type=text], input[type=password], input[type=email], select
+{
+	background: inherit;
+	border: 1px solid #505050;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active
+{
+	background: #0e0e0e;
+	border-bottom-color: #505050;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li, .woocommerce #content div.product .woocommerce-tabs ul.tabs li, .woocommerce-page div.product .woocommerce-tabs ul.tabs li, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li
+{
+	background: #333;
+	border-bottom-color: #505050;
+
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active:before, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active:before, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active:before, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active:before,.woocommerce div.product .woocommerce-tabs ul.tabs li.active:after, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active:after, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active:after, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active:after
+{
+	box-shadow:none !important;
+	border:none !important;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs:before, .woocommerce #content div.product .woocommerce-tabs ul.tabs:before, .woocommerce-page div.product .woocommerce-tabs ul.tabs:before, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs:before
+{
+	border-bottom:1px solid #444;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li, .woocommerce #content div.product .woocommerce-tabs ul.tabs li, .woocommerce-page div.product .woocommerce-tabs ul.tabs li, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li, .woocommerce #reviews #comments ol.commentlist li .comment-text, .woocommerce-page #reviews #comments ol.commentlist li .comment-text, .woocommerce .quantity input.qty, .woocommerce #content .quantity input.qty, .woocommerce-page .quantity input.qty, .woocommerce-page #content .quantity input.qty, #content table, #content th, #content td
+{
+	border-color:#444;
+	box-shadow:none;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li:after, .woocommerce #content div.product .woocommerce-tabs ul.tabs li:after, .woocommerce-page div.product .woocommerce-tabs ul.tabs li:after, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li:after
+{
+	box-shadow:none;
+	border:none;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li a, .woocommerce #content div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a
+{
+	text-shadow: none !important;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li:before, .woocommerce #content div.product .woocommerce-tabs ul.tabs li:before, .woocommerce-page div.product .woocommerce-tabs ul.tabs li:before, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li:before, .woocommerce #payment ul.payment_methods, .woocommerce-page #payment ul.payment_methods
+{
+	border:none;
+	box-shadow:none;
+}
+.woocommerce-message, .woocommerce-info, .woocommerce #payment, .woocommerce-page #payment
+{
+	background:#1A1A1A;
+	color:inherit;
+	box-shadow:none;
+}
+#content table tr:hover
+{
+	background:rgba(0,0,0,0.15);
+}
+
+.woocommerce-error
+{
+	background:#111;
+	color:inherit;
+}
+.woocommerce-message, .woocommerce-error, .woocommerce-info
+{
+	text-shadow:none;
+}	
+.woocommerce #reviews #comments ol.commentlist li img.avatar, .woocommerce-page #reviews #comments ol.commentlist li img.avatar
+{
+	background:#111;
+	border-color:#444;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
